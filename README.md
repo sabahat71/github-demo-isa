@@ -1,4 +1,5 @@
-# I am Sabahat - add more information
-## testing
-## testing 1
-## testing 2
+# Create register feature for user
+## get email and password
+### post to the api server
+#### save a information into user database
+##### send the token to the user
