@@ -1,4 +1,5 @@
-# I am Sabahat - add more information
-## testing
-## testing 1
-## testing 2
+# send email
+## send password
+### check credentials from database
+
+#### response back 
